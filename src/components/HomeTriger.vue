@@ -209,6 +209,11 @@ export default {
          "/src/assets/img/openshop.png",
          "/src/assets/img/nge.png",
          "/src/assets/img/zty.png",
+         "/src/assets/img/time-d.png",
+         "/src/assets/img/elq2.png",
+         "/src/assets/img/anvar-a.png",
+         "/src/assets/img/elpar.png",
+         "/src/assets/img/olam-avto.png",
 
 
       ],
