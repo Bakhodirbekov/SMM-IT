@@ -16,10 +16,8 @@
           <div class="bg-gradient-to-r from-blue-500 via-indigo-600 to-purple-700 rounded-lg shadow-xl p-12 mb-10">
             <h2 class="text-3xl font-semibold text-white mb-6 text-center">Our Mission</h2>
             <p class="text-gray-200 text-lg leading-relaxed">
-              At our core, we strive to innovate and deliver high-quality solutions to meet the unique needs of our
-              clients. Our mission is to empower businesses through creative problem-solving and cutting-edge
-              technology. We are committed to delivering excellence in everything we do, ensuring that our clients
-              receive the best service possible.
+              Biz sizga arzon va sifatlim ishni taklif qilsih uchun ishlab chiqligan har tonlaman o'ylangan
+              loyihalarni taklif qilmiz. Bizda siz ko'magan kamchilikarga yechimlar optimal muamolar o'rgib chiqsh uhcun ish olib boramiz
             </p>
           </div>
         </div>
@@ -50,20 +48,23 @@
         <div class="container mx-auto px-6 lg:px-20">
           <!-- Company History Section -->
           <div class="bg-gradient-to-r from-green-500 via-teal-600 to-blue-700 rounded-lg shadow-xl p-12 mb-10">
-            <h2 class="text-3xl font-semibold text-white mb-6 text-center">Company History</h2>
+            <h2 class="text-3xl font-semibold text-white mb-6 text-center">Kompaniya tarixi</h2>
             <p class="text-gray-200 text-lg leading-relaxed mb-4">
-              Established in 2015, our company began with a vision to deliver unparalleled services to our clients. Over
-              the years, we have grown into a trusted name in the industry, known for our commitment to excellence and
-              innovation.
+              Biz ishimizni 2014-yildan boshlab Olib boramiz shu hzoigi payitgachan ko'p hamkor, kompaniyalr bilan birga ishlab kelamiz.
+              Hozirgi payitgachan bizni hamkorlar ish faolyatida va sihlamoqda biz bilan ish davomida ko'pal mojorolar duch kelgan lekin shun bilan birga,
+              biz ularni ishonchini hali beri yo'qotaganiimizcha yo'q. Biz Openshop,Toshket-Invest,MiliyAvto va boshqa shunga ohshgan korhonalrga 
+              oz biznisini rivojlantirish uchun yordam berib kelamiz bizda It mutahasilari,Kino Produsing yo'nalishlari,Kiber hafsizlig yo'nalsihalri,Mobil 
+              va SMM yo'nalsihalri bilan ham ishlaymiz.
+              IT-Doctor Kompaniyasi shu bilan birgalikda hamorlarimiga patemal yechimlar bilan yonadhsgn holda baozr va iqsodiyo bialn birga yondashmaiz
+              va bu bilan biz qo'ldan kegancha bitta kompaniya bilan barcha usuldagi momolarni hal qilamiz
+              IT-Doctor asoschisi "Otabek Lazizochi" Tomonidan asos solinga bu loyiha ko'p mumolarni hal qilsih uhcun ishlab chiqilgan bo'lib
+              harhil vada berib ish qilb bermaydigan kompaniyalrni oldini olish uchun ishlab chiqlgan bir loyiha dir. 
             </p>
             <p class="text-gray-200 text-lg leading-relaxed mb-4">
-              From our humble beginnings to becoming a leader in our field, every step of our journey has been marked by
-              dedication and a passion for making a difference. Today, we continue to push boundaries, embracing new
-              challenges and opportunities to serve our clients better.
+              Biz ish boshlagan sana 2014-yildan beri ishlab kerldi va hozigi payitgachan ish faolyatida
             </p>
             <p class="text-gray-200 text-lg leading-relaxed">
-              Our story is not just about achievements; it's about the people who make it possible – our team, partners,
-              and clients. Together, we are shaping the future and leaving a lasting impact on the world.
+              Biz faqat siz uchun to'g'ri yechi bera olamiz !
             </p>
           </div>
         </div>
@@ -74,14 +75,13 @@
         <div class="container mx-auto px-6 lg:px-20 text-center text-white">
           <!-- Call-to-Action Section -->
           <div class="max-w-3xl mx-auto bg-white bg-opacity-20 p-8 rounded-lg shadow-xl">
-            <h2 class="text-3xl font-semibold mb-6">Join Our Journey</h2>
+            <h2 class="text-3xl font-semibold mb-6">Hamkorlar Diqatiga</h2>
             <p class="text-lg mb-6">
-              We welcome collaborators, partners, and clients who share our vision of creating impactful solutions.
-              Let’s work together to make a difference.
+              Bu loyohalar riyal ishlar tomonidan qilingan va biz hechkimdan qilganmiz deyb aldamaymiz shunga etibor qiling bizni project larimini ko'rish uhcun ushbu tugmani bosib ko'rishingiz mumkun
             </p>
-            <a href="/contact"
+            <a href="/projects"
               class="inline-block px-8 py-4 bg-blue-700 hover:bg-blue-800 text-white font-semibold rounded-lg shadow-md transform transition-all duration-300 ease-in-out hover:scale-105">
-              Contact Us
+              Ko'rish uchun
             </a>
           </div>
         </div>
@@ -96,40 +96,40 @@ export default {
     return {
       images: [
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/milliyavto.jpg",
           alt: "Team Collaboration",
-          title: "Collaboration",
-          description: "Working together to achieve great results.",
+          title: "MilliAvto MCHJ",
+          description: "Bizga bu kompniya aloqga chiqib bizga elktorn avtosalon qilb berishimizni iltimos qilgan",
         },
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/gl.png",
           alt: "Innovation",
-          title: "Innovation",
-          description: "Pioneering creative solutions for modern problems.",
+          title: "GL-Motors MCHJ",
+          description: "Biz bularga biznes struktur qilib ishin rivjlantirb berishimizni so'ragan SMM paketimmizni sotib olgan",
         },
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/toshInevst.png",
           alt: "Customer Support",
-          title: "Customer Support",
-          description: "Providing unparalleled support to our clients.",
+          title: "Toshkent-Invest",
+          description: "Biz korxonga web ilova va yerlarni E-Auksiyondan bo'sh joylarni ko'rish uhcun yaratib berganmiz",
         },
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/elq2.png",
           alt: "Growth",
-          title: "Growth",
-          description: "Empowering businesses to reach new heights.",
+          title: "ELQ Banking System",
+          description: "Biz bularga web ilova yaratib  berganmiz uslar bankomatlar qayerda va qanday joylashnani to'g'risda va sotuv uchun bizga chiqishgan",
         },
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/olam-avto.png",
           alt: "Dedication",
-          title: "Dedication",
-          description: "Committed to excellence in all that we do.",
+          title: "Olam Avto",
+          description: "Biz bu inson bilan shaxsiy breding va sotuvni rivojlantirshni qilb berishimizni tiltimo qilshgan",
         },
         {
-          src: "https://via.placeholder.com/300",
+          src: "/src/assets/img/openshop.png",
           alt: "Team Spirit",
-          title: "Team Spirit",
-          description: "Fostering a collaborative and supportive environment.",
+          title: "Openshop App",
+          description: "OPENSHOP App ilovasi ishlab chilishdan mahas electron qurulmalarni sotish va mobilashtirishni amalga oshhirish uchun ishlab chiqligan loyiha dir uni bizning ishchlar bunga yechim topshgan",
         },
       ],
     };
