@@ -45,7 +45,7 @@ export default {
       projects: [
         {
           id: 1,
-          image: "../src/assets/img/milliyavto.jpg",
+          image: "/src/assets/img/milliyavto.jpg",
           companyName: "MilliyAvto",
           description: "Web-Sayt qilib berganmiz",
           startDate: "2017-05-01",
