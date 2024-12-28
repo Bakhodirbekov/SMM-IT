@@ -68,7 +68,7 @@ export default {
         },
         {
           id: 3,
-          image: "/src/assets/img/toshInevst.png",
+          image: "/assets/img/toshInevst.png",
           companyName: "Toshkent-Invest",
           description: "Web-Sayt va E-Auksion API",
           startDate: "2022-04-10",
@@ -79,7 +79,7 @@ export default {
         },
         {
           id: 4,
-          image: "/src/assets/img/gl.png",
+          image: "/assets/img/gl.png",
           companyName: "GL-Motors",
           description: "Smm,Marketing,Analitika",
           startDate: "2022-04-10",
@@ -90,7 +90,7 @@ export default {
         },
         {
           id: 5,
-          image: "/src/assets/img/insof-bilan.png",
+          image: "/assets/img/insof-bilan.png",
           companyName: "Insof-Bilan",
           description: "Bizni kichik project",
           startDate: "2022-04-10",
@@ -100,7 +100,7 @@ export default {
         },
         {
           id: 6,
-          image: "/src/assets/img/a7-hostel.png",
+          image: "/assets/img/a7-hostel.png",
           companyName: "A7-Hostel",
           description: "Mexmonxona web-sayt",
           startDate: "2022-04-10",
@@ -112,7 +112,7 @@ export default {
         },
         {
           id: 7,
-          image: "/src/assets/img/openshop.png",
+          image: "/assets/img/openshop.png",
           companyName: "OpenShop",
           description: "Online Market",
           startDate: "2022-04-10",
@@ -123,7 +123,7 @@ export default {
         },
         {
           id: 8,
-          image: "/src/assets/img/nge.png",
+          image: "/assets/img/nge.png",
           companyName: "NGE-Motors",
           description: "Marketing Analitika Smm",
           startDate: "2022-04-10",
@@ -133,7 +133,7 @@ export default {
         },
         {
           id: 9,
-          image: "/src/assets/img/zty.png",
+          image: "/assets/img/zty.png",
           companyName: "ZTY Car Energy",
           description: "Brend-In Market-In Analitik Smm",
           startDate: "2022-04-10",
@@ -144,7 +144,7 @@ export default {
         },
         {
           id: 10,
-          image: "/src/assets/img/elq2.png",
+          image: "/assets/img/elq2.png",
           companyName: "ELQ Banking System",
           description: "Web App",
           startDate: "2022-04-10",
@@ -154,7 +154,7 @@ export default {
         },
         {
           id: 11,
-          image: "/src/assets/img/anvar-a.png",
+          image: "/assets/img/anvar-a.png",
           companyName: "Anvar Avto-Kredit",
           description: "SMM Marketing",
           startDate: "2022-04-10",
@@ -164,7 +164,7 @@ export default {
         },
         {
           id: 12,
-          image: "/src/assets/img/olam-avto.png",
+          image: "/assets/img/olam-avto.png",
           companyName: "Olam Avto-Kredit",
           description: "SMM Marketing",
           startDate: "2022-04-10",
@@ -174,7 +174,7 @@ export default {
         },
         {
           id: 13,
-          image: "/src/assets/img/elpar.png",
+          image: "/assets/img/elpar.png",
           companyName: "Elparvar Avto-Kredit",
           description: "SMM Marketing",
           startDate: "2022-04-10",

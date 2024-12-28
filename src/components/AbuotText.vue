@@ -96,37 +96,37 @@ export default {
     return {
       images: [
         {
-          src: "/src/assets/img/milliyavto.jpg",
+          src: "/assets/img/milliyavto.jpg",
           alt: "Team Collaboration",
           title: "MilliAvto MCHJ",
           description: "Bizga bu kompniya aloqga chiqib bizga elktorn avtosalon qilb berishimizni iltimos qilgan",
         },
         {
-          src: "/src/assets/img/gl.png",
+          src: "/assets/img/gl.png",
           alt: "Innovation",
           title: "GL-Motors MCHJ",
           description: "Biz bularga biznes struktur qilib ishin rivjlantirb berishimizni so'ragan SMM paketimmizni sotib olgan",
         },
         {
-          src: "/src/assets/img/toshInevst.png",
+          src: "/assets/img/toshInevst.png",
           alt: "Customer Support",
           title: "Toshkent-Invest",
           description: "Biz korxonga web ilova va yerlarni E-Auksiyondan bo'sh joylarni ko'rish uhcun yaratib berganmiz",
         },
         {
-          src: "/src/assets/img/elq2.png",
+          src: "/assets/img/elq2.png",
           alt: "Growth",
           title: "ELQ Banking System",
           description: "Biz bularga web ilova yaratib  berganmiz uslar bankomatlar qayerda va qanday joylashnani to'g'risda va sotuv uchun bizga chiqishgan",
         },
         {
-          src: "/src/assets/img/olam-avto.png",
+          src: "/assets/img/olam-avto.png",
           alt: "Dedication",
           title: "Olam Avto",
           description: "Biz bu inson bilan shaxsiy breding va sotuvni rivojlantirshni qilb berishimizni tiltimo qilshgan",
         },
         {
-          src: "/src/assets/img/openshop.png",
+          src: "/assets/img/openshop.png",
           alt: "Team Spirit",
           title: "Openshop App",
           description: "OPENSHOP App ilovasi ishlab chilishdan mahas electron qurulmalarni sotish va mobilashtirishni amalga oshhirish uchun ishlab chiqligan loyiha dir uni bizning ishchlar bunga yechim topshgan",
