@@ -16,8 +16,7 @@
           <div class="bg-gradient-to-r from-blue-500 via-indigo-600 to-purple-700 rounded-lg shadow-xl p-12 mb-10">
             <h2 class="text-3xl font-semibold text-white mb-6 text-center">Our Mission</h2>
             <p class="text-gray-200 text-lg leading-relaxed">
-              Biz sizga arzon va sifatlim ishni taklif qilsih uchun ishlab chiqligan har tonlaman o'ylangan
-              loyihalarni taklif qilmiz. Bizda siz ko'magan kamchilikarga yechimlar optimal muamolar o'rgib chiqsh uhcun ish olib boramiz
+              Biz sizga arzon va sifatli ishni taklif qilish uchun ishlab chiqilgan har tomonlama o‘ylangan loyihalarni taklif qilmiz. Bizda siz ko‘rmagan kamchiliklarga yechimlar optimal muammolar o‘rganib chiqish uchun ish olib boramiz
             </p>
           </div>
         </div>
